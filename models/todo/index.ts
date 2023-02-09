@@ -15,7 +15,7 @@ export interface todo {
   delete: (id?: number) => void;
 }
 
-const todoIndex: todo = {
+const index: todo = {
   id: 0,
   content: "",
   complete: false,
