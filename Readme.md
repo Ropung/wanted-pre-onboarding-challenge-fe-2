@@ -1,3 +1,7 @@
+
+
+
+
 ## 챌린지 과제 가이드
 출처: https://gist.github.com/pocojang/e247baddfb4345903751ec592fd836ff
 
@@ -7,7 +11,7 @@
 - **디스코드/프론트엔드 챌린지/자유로운-이야기 채널**에서 원하는 Interface 코드를 가져다 사용하세요
 - 설계 & 모델링 된 Interface를 실제로 구현하는 챌린지 과제입니다.
 - 모든 요구사항은 설계 & 모델링을 기반으로 수행합니다.
-- 제출할 저장소 명은 wanted-pre-onboarding-challenge-fe-ts로 생성해주세요. (Public 권한 필요)
+- 제출할 저장소 명은 **wanted-pre-onboarding-challenge-fe-ts** 로 생성해주세요. (Public 권한 필요)
   - 이미 1차~2차 과제를 통해 저장소를 생성했다면 별도의 브랜치로 관리하시는 것을 추천합니다.
 - 완성한 과제의 저장소 링크를 **디스코드/프론트엔드 챌린지/자유로운-이야기 채널**에 제출해주세요.
 - README.md를 꼭 작성해 주세요.
